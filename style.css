@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 500vh;
+    margin: 50;
+  }
+  
+  .countdown {
+    display: flex;
+    font-size: 5em;
+    margin-bottom: 50px;
+  }
+  
+  .countdown span {
+    margin: 0 20px;
+  }
+  
